@@ -1,11 +1,11 @@
 ---
 title: "Welcome To My Blog"
-author: "Tristan O'Malley"
+author: "Fatimah Azzakiyah"
 date: "2025-06-16"
 categories: [news]
 ---
 
-This is the first post in a Quarto blog. Welcome!
+Welcome!
 
 ![](thumbnail.jpg)
 

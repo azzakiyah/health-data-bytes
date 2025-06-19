@@ -1,5 +1,5 @@
 ---
-title: "health-data-bytes-blog"
+title: "Health Data Bytes by Fatimah Azzakiyah"
 listing:
   contents: posts
   sort: "date desc"
